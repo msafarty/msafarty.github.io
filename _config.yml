@@ -1,1 +1,9 @@
+# Config stuff
+title: Musings
+description: Michael Safarty, assessment/property appraisal for taxation, fun coding blog? Hopefully, at least.
+baseurl: "blog"
+url: ""
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-tactile
