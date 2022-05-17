@@ -6,4 +6,4 @@ url: ""
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+theme: minima
